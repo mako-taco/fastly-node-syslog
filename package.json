@@ -1,0 +1,14 @@
+{
+  "name": "fastly-node-syslog",
+  "version": "0.1.6",
+  "author": "jake",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "^4.8.2",
+    "debug": "^1.0.4",
+    "graceful-fs": "^3.0.2"
+  }
+}
